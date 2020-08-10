@@ -125,3 +125,29 @@ node server.js
 
 
 
+#### 9. web_template Architecture
+
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/25717861/89754659-becc1d00-db17-11ea-96f4-a8fed08626ee.gif)
+
+
+
+
+
+
+
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/25717861/89753964-2339ad00-db15-11ea-9ea5-6f9b48f5f1a8.png)
+
+
+
+#### 10.Web_template 시나오 보드
+
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/25717861/89756220-d4901100-db1c-11ea-9559-844ec31a0d74.png)
+
+
+
+#### 11. Web_template Uml 
+
+![Untitled Diagram (3)](https://user-images.githubusercontent.com/25717861/89759173-84b54800-db24-11ea-808d-2bffd4b50390.png)
+
+
+
