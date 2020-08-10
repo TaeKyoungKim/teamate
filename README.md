@@ -37,4 +37,8 @@ node server.js
 
 ## 7. open web browser and connect to localhost:8080
 
+#### prototype 사이트맵 구조
+
+![](C:\Users\pc\Downloads\Untitled Diagram.png)
+
 
