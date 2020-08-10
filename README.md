@@ -39,6 +39,6 @@ node server.js
 
 #### prototype 사이트맵 구조
 
-![](C:\Users\pc\Downloads\Untitled Diagram.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/25717861/89747296-245ce100-daf9-11ea-9b39-77e2b4955abe.png)
 
 
